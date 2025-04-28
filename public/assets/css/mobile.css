@@ -1,0 +1,103 @@
+/* Adjust background for mobile (max-width: 768px) */
+@media (max-width: 768px) {
+    body{
+        width: 100vw;
+        overflow-x: hidden;
+    }
+    .hero_bg {
+        background-image: url('/assets/images/banner/mobile_bg.jpg');
+        background-size: cover; /* Ensures the full image is visible without clipping */
+        background-position: center top; /* Adjust to top for better fitting */
+        height: 100vh; /* Reduce height on mobile for better viewing */
+        width: 100%;
+    }
+    .btn_getstarted {
+        background-color: #00DBDF;
+        color: #00151C;
+        border-radius: 20px;
+        font-size: 18px;
+    }
+    .stakes {
+        background-image: url('/assets/images/banner/landing_bgphone.jpg');
+        background-size: cover; /* Ensures the full image is visible without clipping */
+        background-position: center top; /* Adjust to top for better fitting */
+        height: 100vh; /* Reduce height on mobile for better viewing */
+        width: 100%;
+    }
+    .image{
+        height: 100%;
+    }
+    .pain-points-section{
+        height: fit-content;
+    }
+    .digital-transformation-section{
+        height: fit-content;
+    }
+    .icon-box {
+        padding: 20px;
+    }
+    .codechieve-section{
+        height: fit-content;
+    }
+    .icon-box {
+        padding: 15px;
+    }
+    .icon-box i {
+        font-size: 2rem;
+    }
+    .icon-box h5 {
+        font-size: 1.2rem;
+    }
+    .icon-box p {
+        font-size: 0.9rem;
+    }
+    .codechieve-section {
+        padding-bottom: 60px; /* Increased padding for mobile */
+    }
+    .contact-form-section {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .contact-form-box {
+        padding: 20px;
+    }
+
+    .contact-form-box .form-label {
+        font-size: 1rem;
+    }
+
+    .contact-form-box .form-control {
+        font-size: 0.9rem;
+    }
+
+    .submit-btn {
+        font-size: 1rem;
+    }
+
+    /* Adjust grid columns on mobile */
+    .col-md-6 {
+        width: 100%;
+    }
+    .footer-section {
+        padding: 20px 0;
+    }
+
+    .footer-title {
+        font-size: 1.3rem;
+        text-align: center;
+    }
+
+    .footer-links {
+        text-align: center;
+    }
+
+    .footer-links li {
+        margin-bottom: 15px;
+    }
+
+    .footer-bottom {
+        text-align: center;
+        font-size: 0.9rem;
+    }
+}
