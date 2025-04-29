@@ -25,10 +25,8 @@
                     <div class="padding_custom">
                         <a href="{{ route('index') }}" id="heroButtonLink">
                             <button class="btn_getstarted btn btn-primary" id="heroButtonText">
-                                <b>
-                                    <i class="fab fa-whatsapp" id="heroButtonIcon"></i>
-                                    Get Started
-                                </b>
+                                <i class="fab fa-whatsapp" id="heroButtonIcon"></i>
+                                Get Started
                             </button>
                         </a>
                     </div>
@@ -39,42 +37,42 @@
     </div>
     <!-- Navbar -->
     <nav id="mainNavbar" class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" style="display: none;">
-    <div class="container">
-        <a class="navbar-brand d-flex align-items-center" href="#">
-            <img src="/assets/images/logo/logonobg.png" alt="Codechieve Logo" width="24" height="24" class="me-2">
-            Codechieve
-        </a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav ms-auto">
-                <li class="nav-item">
-                    <a class="nav-link" href="{{ route("index") }}">
-                        <i class="fas fa-home d-lg-none me-2"></i> Home
-                    </a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="{{ route("about") }}">
-                        <i class="fas fa-info-circle d-lg-none me-2"></i> About
-                    </a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#testimonials">
-                        <i class="fas fa-quote-left d-lg-none me-2"></i> Testimonials
-                    </a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#faq">
-                        <i class="fas fa-question-circle d-lg-none me-2"></i> FAQ
-                    </a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#contact">
-                        <i class="fas fa-envelope d-lg-none me-2"></i> Contact Us
-                    </a>
-                </li>
-            </ul>
+        <div class="container">
+            <a class="navbar-brand d-flex align-items-center" href="#">
+                <img src="/assets/images/logo/logonobg.png" alt="Codechieve Logo" width="24" height="24" class="me-2">
+                Codechieve
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ route("index") }}">
+                            <i class="fas fa-home d-lg-none me-2"></i> Home
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ route("about") }}">
+                            <i class="fas fa-info-circle d-lg-none me-2"></i> About
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#testimonials">
+                            <i class="fas fa-quote-left d-lg-none me-2"></i> Testimonials
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#faq">
+                            <i class="fas fa-question-circle d-lg-none me-2"></i> FAQ
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#contact">
+                            <i class="fas fa-envelope d-lg-none me-2"></i> Contact Us
+                        </a>
+                    </li>
+                </ul>
+            </div>
         </div>
-    </div>
-</nav>
+    </nav>

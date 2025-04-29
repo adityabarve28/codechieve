@@ -51,7 +51,7 @@
             heroButtonIcon.style.display = 'none'; // Hide WhatsApp icon
         } else {
             // Modify button
-            heroButtonText.innerHTML = '<b><i class="fab fa-whatsapp"></i> Contact Us</b>';
+            heroButtonText.innerHTML = '<i class="fab fa-whatsapp"></i> Contact Us';
             heroButtonLink.setAttribute('href', 'https://wa.me/919137818209?text=I%20would%20like%20to%20know%20more'); // or WhatsApp link if you want
             heroButtonLink.setAttribute('target', '_blank');
         }
