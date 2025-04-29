@@ -1,17 +1,41 @@
-<!DOCTYPE html>
-<html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Title -->
     <title>Codechieve - Secure Coding Solutions</title>
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="/assets/images/logo/logonobg.png">
+
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Codechieve provides secure, scalable coding solutions tailored for modern businesses.">
+    <meta name="keywords" content="secure coding, web development, Laravel, web security, Codechieve, coding solutions">
+    <meta name="author" content="Codechieve Team">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:title" content="Codechieve - Secure Coding Solutions">
+    <meta property="og:description" content="Codechieve provides secure, scalable coding solutions tailored for modern businesses.">
+    <meta property="og:image" content="/assets/images/logo/logonobg.png">
+    <meta property="og:url" content="https://codechieve.onrender.com/">
+    <meta property="og:type" content="website">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Codechieve - Secure Coding Solutions">
+    <meta name="twitter:description" content="Codechieve provides secure, scalable coding solutions tailored for modern businesses.">
+    <meta name="twitter:image" content="/assets/images/logo/logonobg.png">
+
+    <!-- Stylesheets -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/mobile.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
+    <!-- Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </head>
+
 
 <body class="dark-theme">
 
