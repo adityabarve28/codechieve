@@ -233,6 +233,82 @@
         </div>
     </div>
 </section>
+<!-- Services Section -->
+<section id="services" style="background-color: #121212; padding: 60px 0; color: #fff;">
+    <div class="container">
+        <h2 class="text-center mb-5" style="color: #ffffff; font-weight: bold;">Our <span class="highlight">Services</span></h2>
+        <div class="row">
+
+            <!-- Service Card 1 -->
+            <div class="col-md-4 mb-4">
+                <div class="service-card h-100 text-center p-4 rounded">
+                    <div class="service-icon mb-3">
+                        <i class="fas fa-code fa-2x text-orange"></i>
+                    </div>
+                    <h5 class="mb-3">Web Development</h5>
+                    <p>Create fast, responsive websites tailored to your brand and goals.</p>
+                </div>
+            </div>
+
+            <!-- Service Card 2 -->
+            <div class="col-md-4 mb-4">
+                <div class="service-card h-100 text-center p-4 rounded">
+                    <div class="service-icon mb-3">
+                        <i class="fas fa-shopping-cart fa-2x text-orange"></i>
+                    </div>
+                    <h5 class="mb-3">E-Commerce Setup</h5>
+                    <p>Launch an online store with seamless shopping and payment experience.</p>
+                </div>
+            </div>
+
+            <!-- Service Card 3 -->
+            <div class="col-md-4 mb-4">
+                <div class="service-card h-100 text-center p-4 rounded">
+                    <div class="service-icon mb-3">
+                        <i class="fas fa-pencil-ruler fa-2x text-orange"></i>
+                    </div>
+                    <h5 class="mb-3">UI/UX Design</h5>
+                    <p>Design stunning interfaces that provide great user experiences.</p>
+                </div>
+            </div>
+
+            <!-- Service Card 4 -->
+            <div class="col-md-4 mb-4">
+                <div class="service-card h-100 text-center p-4 rounded">
+                    <div class="service-icon mb-3">
+                        <i class="fas fa-server fa-2x text-orange"></i>
+                    </div>
+                    <h5 class="mb-3">Hosting & Deployment</h5>
+                    <p>Deploy websites securely on cloud platforms with custom domains.</p>
+                </div>
+            </div>
+
+            <!-- Service Card 5 -->
+            <div class="col-md-4 mb-4">
+                <div class="service-card h-100 text-center p-4 rounded">
+                    <div class="service-icon mb-3">
+                        <i class="fas fa-tools fa-2x text-orange"></i>
+                    </div>
+                    <h5 class="mb-3">Website Maintenance</h5>
+                    <p>Ongoing support, updates, and bug fixes to keep your site smooth.</p>
+                </div>
+            </div>
+
+            <!-- Service Card 6 -->
+            <div class="col-md-4 mb-4">
+                <div class="service-card h-100 text-center p-4 rounded">
+                    <div class="service-icon mb-3">
+                        <i class="fas fa-search fa-2x text-orange"></i>
+                    </div>
+                    <h5 class="mb-3">SEO Optimization</h5>
+                    <p>Improve visibility and rank higher on Google through best practices.</p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
 <!-- Contact section -->
 <section class="contact-form-section" style="background-color: #111111; height: 100vh;">
     <div class="container text-white d-flex align-items-center justify-content-center">
@@ -241,7 +317,7 @@
             <div class="col-md-6 mb-4 mb-md-0">
                 <h2 class="section-title mb-5">Get in Touch with <span class="highlight">Codechieve</span></h2>
                 <p class="contact-text">
-                    We are here to help you transform your business digitally. Whether you want to optimize processes, 
+                    We are here to help you transform your business digitally. Whether you want to optimize processes,
                     enhance customer engagement, or improve overall efficiency, we're ready to work with you.
                     Reach out to us, and let's create something amazing together.
                 </p>

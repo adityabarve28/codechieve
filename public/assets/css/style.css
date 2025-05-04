@@ -490,3 +490,17 @@ h1 .icon {
     transform: translateY(-5px);
     transition: all 0.3s ease-in-out;
 }
+.service-card {
+    background-color: #1e1e1e;
+    border: 1px solid #2c2c2c;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+  }
+  .service-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 8px 20px rgba(22, 226, 249, 0.4);
+  }
+  .text-orange {
+    color: #00DBDF;
+  }
+  
