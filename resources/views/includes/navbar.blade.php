@@ -6,7 +6,7 @@
     <title>Codechieve - Secure Coding Solutions</title>
 
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="/assets/images/logo/logonobg.pngloZ">
+    <link rel="icon" type="image/png" href="/assets/images/logo/logonobg.png">
 
     <!-- SEO Meta Tags -->
     <meta name="description" content="Codechieve provides secure, scalable coding solutions tailored for modern businesses.">
