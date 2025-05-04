@@ -243,7 +243,8 @@
             <div class="col-md-4 mb-4">
                 <div class="service-card h-100 text-center p-4 rounded">
                     <div class="service-icon mb-3">
-                        <i class="fas fa-code fa-2x text-orange"></i>
+                        <!-- <i class="fas fa-code fa-2x text-orange"></i> -->
+                        <img src="/assets/images/logo/logonobg.png" alt="Codechieve Logo" width="35" height="35" class="me-2">
                     </div>
                     <h5 class="mb-3">Web Development</h5>
                     <p>Create fast, responsive websites tailored to your brand and goals.</p>
