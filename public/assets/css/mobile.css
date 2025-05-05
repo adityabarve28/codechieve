@@ -5,7 +5,7 @@
         overflow-x: hidden;
     }
     .hero_bg {
-        background-image: url('/assets/images/banner/mobile_bg.jpg');
+        background-image: url('/assets/images/banner/mobile_bg.jpg') !important;
         background-size: cover; /* Ensures the full image is visible without clipping */
         background-position: center top; /* Adjust to top for better fitting */
         height: 100vh; /* Reduce height on mobile for better viewing */
