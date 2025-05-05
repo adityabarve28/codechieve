@@ -79,7 +79,7 @@
 
             <!-- Right Side -->
             <div class="col-md-6">
-                <img src="/assets/images/images/pain.jpg" alt="Pain Points" class="img-fluid rounded neon-border image" style="height: 90vh !important;">
+                <img src="/assets/images/images/pain2.jpg" alt="Pain Points" class="img-fluid rounded neon-border image" style="height: 90vh !important;">
             </div>
         </div>
     </div>
