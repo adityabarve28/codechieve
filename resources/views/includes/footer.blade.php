@@ -19,8 +19,6 @@
         </div>
     </div>
 </footer>
-</body>
-
 <!-- Parallax Script -->
 <script>
     window.addEventListener('scroll', function() {
@@ -38,7 +36,7 @@
     });
 </script>
 <script>
-    document.addEventListener("DOMContentLoaded", function () {
+    document.addEventListener("DOMContentLoaded", function() {
         const navbar = document.getElementById('mainNavbar');
         const heroSection = document.getElementById('hero');
         const heroButtonText = document.getElementById('heroButtonText');
@@ -56,7 +54,7 @@
             heroButtonLink.setAttribute('target', '_blank');
         }
 
-        window.addEventListener('scroll', function () {
+        window.addEventListener('scroll', function() {
             const heroBottom = heroSection.offsetTop + heroSection.offsetHeight;
             if (window.scrollY > heroBottom - 80) {
                 navbar.style.display = 'block';
@@ -67,10 +65,10 @@
     });
 </script>
 <script>
-    document.addEventListener("DOMContentLoaded", function () {
+    document.addEventListener("DOMContentLoaded", function() {
         const currentPath = window.location.pathname;
         const heroContent = document.querySelector('.hero_content');
-        
+
         if (currentPath === '/about') {
             if (heroContent) {
                 heroContent.innerHTML = `
@@ -94,6 +92,17 @@
         }
     });
 </script>
+<script>
+    const heroSection = document.querySelector('.hero_bg');
+    const currentPath = window.location.pathname;
 
+    if (currentPath === '/' || currentPath === '/index.html') {
+        heroSection.style.backgroundImage = "url('/assets/images/banner/trial_banner2.jpg')";
+    } else {
+        heroSection.style.backgroundImage = "url('/assets/images/banner/home_banner2.jpg')";
+    }
+</script>
+
+</body>
 
 </html>

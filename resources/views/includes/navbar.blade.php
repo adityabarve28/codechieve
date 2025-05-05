@@ -47,7 +47,7 @@
                     <h1 class="tagline text-white">From offline to online, simplified</h1>
                     <h5 class="tagline text-white">We help businesses seamlessly transition from <b>physical storefront</b> to <b>digital platforms</b></h5>
                     <div class="padding_custom">
-                        <a href="{{ route('index') }}" id="heroButtonLink">
+                        <a href="{{ route('index') }}" id="heroButtonLink" style="text-decoration: none;">
                             <button class="btn_getstarted btn btn-primary" id="heroButtonText">
                                 <i class="fab fa-whatsapp" id="heroButtonIcon"></i>
                                 Get Started

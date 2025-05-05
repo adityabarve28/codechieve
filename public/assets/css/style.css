@@ -7,7 +7,7 @@
     position: relative;
     width: 100%;
     height: 100vh;
-    background-image: url('/assets/images/banner/trial_banner2.jpg');
+    /* background-image: url('/assets/images/banner/trial_banner2.jpg'); */
     background-size: 100% 100%;
     background-position: center center;
     background-repeat: no-repeat;
@@ -40,8 +40,21 @@
 }
 
 .btn_getstarted {
-    background-color: #00DBDF;
-    color: #00151C;
+    background-color: #00ffff; /* Electric cyan */
+    color: #0a0f1b; /* Dark navy text */
+    border: none;
+    padding: 12px 18px;
+    font-size: 16px;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    box-shadow: 0 5px 15px rgba(0, 255, 255, 0.5);
+    transition: background 0.3s ease;
+    z-index: 9999;
+    
 }
 
 .padding_custom {
