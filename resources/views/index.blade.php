@@ -288,10 +288,10 @@
             <div class="col-md-4 mb-4">
                 <div class="service-card h-100 text-center p-4 rounded">
                     <div class="service-icon mb-3">
-                        <i class="fas fa-tools fa-2x text-orange"></i>
+                        <i class="fas fa-mobile fa-2x text-orange"></i>
                     </div>
-                    <h5 class="mb-3">Website Maintenance</h5>
-                    <p>Ongoing support, updates, and bug fixes to keep your site smooth.</p>
+                    <h5 class="mb-3">Mobile App Development</h5>
+                    <p>Get a mobile app with great User experience.</p>
                 </div>
             </div>
 
