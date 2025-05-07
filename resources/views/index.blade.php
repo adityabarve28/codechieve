@@ -173,23 +173,25 @@
     </div>
 </section>
 <!-- Codechieve Section -->
+<!-- Codechieve Benefits Section -->
 <section class="codechieve-section">
     <div class="container text-center text-white">
         <h2 class="section-title mb-5">Unlock Opportunities and Transform Your Business with <span class="highlight">Codechieve</span></h2>
         <div class="row align-items-stretch">
+            
             <!-- Expand Reach -->
             <div class="col-md-4 mb-4">
                 <div class="icon-box">
-                    <i class="fas fa-globe-americas icon-neon"></i>
+                    <i class="fas fa-broadcast-tower icon-neon"></i>
                     <h5>Expand Your Reach</h5>
                     <p>Open doors to global markets, breaking geographical barriers to attract more customers.</p>
                 </div>
             </div>
 
-            <!-- Boost Efficiency -->
+            <!-- Boost Operational Efficiency -->
             <div class="col-md-4 mb-4">
                 <div class="icon-box">
-                    <i class="fas fa-cogs icon-neon"></i>
+                    <i class="fas fa-sliders-h icon-neon"></i>
                     <h5>Boost Operational Efficiency</h5>
                     <p>Streamline your operations, automate processes, and eliminate inefficiencies.</p>
                 </div>
@@ -198,25 +200,25 @@
             <!-- Enhance Customer Experience -->
             <div class="col-md-4 mb-4">
                 <div class="icon-box">
-                    <i class="fas fa-smile-beam icon-neon"></i>
+                    <i class="fas fa-headset icon-neon"></i>
                     <h5>Enhance Customer Experience</h5>
                     <p>Provide personalized, real-time support and services that foster customer loyalty.</p>
                 </div>
             </div>
 
-            <!-- Adapt Faster -->
+            <!-- Adapt Quickly to Changes -->
             <div class="col-md-4 mb-4">
                 <div class="icon-box">
-                    <i class="fas fa-tachometer-alt icon-neon"></i>
+                    <i class="fas fa-sync-alt icon-neon"></i>
                     <h5>Adapt Quickly to Changes</h5>
                     <p>Stay agile and respond quickly to market shifts, ensuring your business thrives.</p>
                 </div>
             </div>
 
-            <!-- Build Trust -->
+            <!-- Build Consumer Trust -->
             <div class="col-md-4 mb-4">
                 <div class="icon-box">
-                    <i class="fas fa-shield-alt icon-neon"></i>
+                    <i class="fas fa-user-shield icon-neon"></i>
                     <h5>Build Consumer Trust</h5>
                     <p>Gain credibility and trust with a modern, transparent, and visible online presence.</p>
                 </div>
@@ -225,14 +227,16 @@
             <!-- Scale Your Business -->
             <div class="col-md-4 mb-4">
                 <div class="icon-box">
-                    <i class="fas fa-arrow-up icon-neon"></i>
+                    <i class="fas fa-chart-line icon-neon"></i>
                     <h5>Scale Your Business</h5>
                     <p>Grow your business effortlessly with scalable solutions tailored to your unique needs.</p>
                 </div>
             </div>
+
         </div>
     </div>
 </section>
+
 <!-- Services Section -->
 <section id="services" style="background-color: #121212; padding: 60px 0; color: #fff;">
     <div class="container">
