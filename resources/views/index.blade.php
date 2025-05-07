@@ -174,7 +174,7 @@
 </section>
 <!-- Codechieve Section -->
 <!-- Codechieve Benefits Section -->
-<section class="codechieve-benefits-section">
+<section class="codechieve-section">
     <div class="container text-center text-white">
         <h2 class="section-title mb-5">Why Businesses Choose <span class="highlight">Codechieve</span></h2>
         <div class="row align-items-stretch">
