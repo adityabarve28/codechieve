@@ -516,4 +516,75 @@ h1 .icon {
   .text-orange {
     color: #00DBDF;
   }
-  
+/* Testimonial Section Styles */
+/* Testimonial Section Styles */
+#testimonials {
+    background-color: #121212;
+    color: #ffffff;
+    height: 100vh;
+}
+
+#testimonials .highlight {
+    color: #00DBDF;
+    font-weight: bold;
+}
+
+.testimonial-card {
+    background-color: #1e1e1e;
+    border-radius: 15px;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+    text-align: center;
+    color: #ffffff;
+    height: 250px;
+}
+
+.testimonial-card:hover {
+    transform: translateY(-10px);
+}
+
+.testimonial-card h5 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.testimonial-card p {
+    color: #ffffff;
+}
+
+.testimonial-card small {
+    color: #aaaaaa;
+    font-size: 0.9rem;
+}
+
+.swiper-pagination-bullet {
+    background-color: #00DBDF !important;
+    opacity: 0.6;
+    transition: opacity 0.3s;
+}
+
+.swiper-pagination-bullet-active {
+    opacity: 1;
+}
+
+/* Swiper Container */
+.swiper {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+/* Pagination Styling */
+.swiper-pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.color{
+    color: #00DBDF !important;
+}
+/* FAQs */
+#faq{
+    height: 100vh;
+}

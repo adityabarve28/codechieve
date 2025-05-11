@@ -102,6 +102,32 @@
         heroSection.style.backgroundImage = "url('/assets/images/banner/home_banner2.jpg')";
     }
 </script>
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+<script>
+    var swiper = new Swiper('.testimonial-swiper', {
+        slidesPerView: 1, /* Show 1 slide at a time */
+        spaceBetween: 30, /* Space between slides */
+        loop: true, /* Infinite loop */
+        pagination: {
+            el: '.swiper-pagination',
+            clickable: true, /* Enable clicking pagination */
+        },
+        breakpoints: {
+            640: {
+                slidesPerView: 1, /* 1 slide per view on smaller screens */
+            },
+            768: {
+                slidesPerView: 2, /* 2 slides per view on medium screens */
+            },
+            1024: {
+                slidesPerView: 3, /* 3 slides per view on larger screens */
+            },
+        },
+    });
+</script>
+
+
 
 </body>
 

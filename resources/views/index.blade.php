@@ -330,9 +330,126 @@
         </div>
     </div>
 </section>
+<!-- Testimonial Section -->
+<!-- Testimonial Section -->
+<section id="testimonials" class="d-flex flex-column align-items-center justify-content-center text-center py-5">
+    <h1 class="highlight mb-5">See what our clients say</h1>
+    <div class="container">
+        <div class="swiper testimonial-swiper">
+            <div class="swiper-wrapper">
+
+                <!-- Testimonial Card 1 -->
+                <div class="swiper-slide">
+                    <div class="card p-4 text-charcoal testimonial-card">
+                        <h5>“EmpowerMental transformed how I manage student stress.”</h5>
+                        <p class="mt-3 mb-1 color"><strong>- Prof. Shalini Mehta</strong></p>
+                        <small class="color">Institute: Pune College of Arts</small>
+                    </div>
+                </div>
+
+                <!-- Testimonial Card 2 -->
+                <div class="swiper-slide">
+                    <div class="card p-4 text-charcoal testimonial-card">
+                        <h5>“I finally feel heard, and I have tools to cope now.”</h5>
+                        <p class="mt-3 mb-1 color"><strong>- Rahul Desai</strong></p>
+                        <small class="color">Student, Mumbai University</small>
+                    </div>
+                </div>
+
+                <!-- Testimonial Card 3 -->
+                <div class="swiper-slide">
+                    <div class="card p-4 text-charcoal testimonial-card">
+                        <h5>“The platform simplifies therapy for both clients and professionals.”</h5>
+                        <p class="mt-3 mb-1 color"><strong>- Dr. Ayesha Shaikh</strong></p>
+                        <small class="color">Therapist, EmpowerMental</small>
+                    </div>
+                </div>
+
+                <!-- Testimonial Card 4 -->
+                <div class="swiper-slide">
+                    <div class="card p-4 text-charcoal testimonial-card">
+                        <h5>“We've seen a 30% improvement in student well-being.”</h5>
+                        <p class="mt-3 mb-1 color"><strong>- Dr. R. M. Joshi</strong></p>
+                        <small class="color">Institute: TechBridge Institute</small>
+                    </div>
+                </div>
+
+            </div>
+            <!-- Swiper Pagination -->
+            <div class="swiper-pagination mt-4"></div>
+        </div>
+    </div>
+</section>
+<!-- FAQ Section -->
+<section id="faq" class="py-5" style="background-color: #121212; color: #ffffff;">
+    <div class="container">
+        <h2 class="text-center mb-5" style="font-weight: bold; color: #ffffff;">Frequently Asked <span class="highlight">Questions</span></h2>
+        
+        <div class="accordion" id="faqAccordion">
+
+            <!-- FAQ 1 -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingOne">
+                    <button class="accordion-button btn-neon" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                        What services do you provide?
+                    </button>
+                </h2>
+                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body">
+                        We offer a range of services including Web Development, E-commerce Setup, UI/UX Design, SEO Optimization, Mobile App Development, and Hosting & Deployment. Our team is here to help bring your digital vision to life.
+                    </div>
+                </div>
+            </div>
+
+            <!-- FAQ 2 -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingTwo">
+                    <button class="accordion-button collapsed btn-neon" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                        How can I get started with Codechieve?
+                    </button>
+                </h2>
+                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body">
+                        Getting started with Codechieve is easy! Simply reach out to us via our contact form or email. After that, we’ll schedule a consultation to discuss your needs and how we can best assist you.
+                    </div>
+                </div>
+            </div>
+
+            <!-- FAQ 3 -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingThree">
+                    <button class="accordion-button collapsed btn-neon" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                        What is your pricing model?
+                    </button>
+                </h2>
+                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body">
+                        Our pricing depends on the scope and complexity of the project. We offer flexible pricing packages tailored to your business needs. Reach out to us for a personalized quote.
+                    </div>
+                </div>
+            </div>
+
+            <!-- FAQ 4 -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingFour">
+                    <button class="accordion-button collapsed btn-neon" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                        Do you offer post-launch support?
+                    </button>
+                </h2>
+                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body">
+                        Yes! We provide ongoing support after the launch of your project to ensure everything runs smoothly. Our team will be available for troubleshooting, updates, and additional services as needed.
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
 
 <!-- Contact section -->
-<section class="contact-form-section" style="background-color: #111111; height: 100vh;">
+<section id="contact" class="contact-form-section" style="background-color: #111111; height: 100vh;">
     <div class="container text-white d-flex align-items-center justify-content-center">
         <div class="row w-100">
             <!-- Left side Text -->
