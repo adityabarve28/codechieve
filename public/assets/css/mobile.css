@@ -53,11 +53,11 @@
     }
     .codechieve-section {
         padding-bottom: 60px; /* Increased padding for mobile */
-        height: fit-content !important;
+        height: fit-content;
     }
     .contact-form-section {
-        height: auto !important; /* Ensure it adjusts based on content */
-        padding: 30px 0; /* Add padding to make the form look better on mobile */
+        padding-bottom: 60px; /* Increased padding for mobile */
+        height: fit-content;
     }
 
     .contact-form-box {
