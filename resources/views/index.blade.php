@@ -173,66 +173,87 @@
     </div>
 </section>
 <!-- Codechieve Section -->
+<!-- Codechieve Benefits Section -->
 <section class="codechieve-section">
     <div class="container text-center text-white">
-        <h2 class="section-title mb-5">Unlock Opportunities and Transform Your Business with <span class="highlight">Codechieve</span></h2>
+        <h2 class="section-title mb-5">Why Businesses Choose <span class="highlight">Codechieve</span></h2>
         <div class="row align-items-stretch">
-            <!-- Expand Reach -->
+            <!-- Visibility -->
             <div class="col-md-4 mb-4">
                 <div class="icon-box">
-                    <i class="fas fa-globe-americas icon-neon"></i>
-                    <h5>Expand Your Reach</h5>
-                    <p>Open doors to global markets, breaking geographical barriers to attract more customers.</p>
+                    <i class="fas fa-search-dollar icon-neon"></i>
+                    <h5>More Visibility, More Customers</h5>
+                    <p>Get discovered by the right audience through powerful online presence and SEO practices.</p>
                 </div>
             </div>
 
-            <!-- Boost Efficiency -->
+            <!-- Professional Image -->
             <div class="col-md-4 mb-4">
                 <div class="icon-box">
-                    <i class="fas fa-cogs icon-neon"></i>
-                    <h5>Boost Operational Efficiency</h5>
-                    <p>Streamline your operations, automate processes, and eliminate inefficiencies.</p>
+                    <i class="fas fa-id-badge icon-neon"></i>
+                    <h5>Professional Image That Builds Trust</h5>
+                    <p>Look credible and reliable from the very first click with a modern online presence.</p>
                 </div>
             </div>
 
-            <!-- Enhance Customer Experience -->
+            <!-- Always-On Channel -->
             <div class="col-md-4 mb-4">
                 <div class="icon-box">
-                    <i class="fas fa-smile-beam icon-neon"></i>
-                    <h5>Enhance Customer Experience</h5>
-                    <p>Provide personalized, real-time support and services that foster customer loyalty.</p>
+                    <i class="fas fa-clock icon-neon"></i>
+                    <h5>Always-On Sales Channel</h5>
+                    <p>Your business stays open 24/7 — no "closed" signs, no missed opportunities.</p>
                 </div>
             </div>
 
-            <!-- Adapt Faster -->
+            <!-- Time Savings -->
             <div class="col-md-4 mb-4">
                 <div class="icon-box">
-                    <i class="fas fa-tachometer-alt icon-neon"></i>
-                    <h5>Adapt Quickly to Changes</h5>
-                    <p>Stay agile and respond quickly to market shifts, ensuring your business thrives.</p>
+                    <i class="fas fa-hourglass-half icon-neon"></i>
+                    <h5>Time Saved = More Freedom</h5>
+                    <p>Automate repetitive tasks and simplify operations so you can focus on growth.</p>
                 </div>
             </div>
 
-            <!-- Build Trust -->
+            <!-- Tailored Solutions -->
             <div class="col-md-4 mb-4">
                 <div class="icon-box">
-                    <i class="fas fa-shield-alt icon-neon"></i>
-                    <h5>Build Consumer Trust</h5>
-                    <p>Gain credibility and trust with a modern, transparent, and visible online presence.</p>
+                    <i class="fas fa-fingerprint icon-neon"></i>
+                    <h5>Tailored to You, Not Templated</h5>
+                    <p>Personalized solutions crafted to reflect your brand and voice — not cookie-cutter work.</p>
                 </div>
             </div>
 
-            <!-- Scale Your Business -->
+            <!-- Scalable Growth -->
             <div class="col-md-4 mb-4">
                 <div class="icon-box">
-                    <i class="fas fa-arrow-up icon-neon"></i>
-                    <h5>Scale Your Business</h5>
-                    <p>Grow your business effortlessly with scalable solutions tailored to your unique needs.</p>
+                    <i class="fas fa-chart-line icon-neon"></i>
+                    <h5>Growth Without Growing Pains</h5>
+                    <p>We build with scale in mind so you're ready when your business takes off.</p>
+                </div>
+            </div>
+
+            <!-- Support -->
+            <div class="col-md-4 mb-4">
+                <div class="icon-box">
+                    <i class="fas fa-headset icon-neon"></i>
+                    <h5>Support You Can Count On</h5>
+                    <p>Quick, clear, human support — we treat your project like our own.</p>
+                </div>
+            </div>
+
+            <!-- Differentiation -->
+            <div class="col-md-4 mb-4">
+                <div class="icon-box">
+                    <i class="fas fa-star icon-neon"></i>
+                    <h5>Stand Out in a Crowded Market</h5>
+                    <p>Bold design and smart strategy to make you unforgettable, not just another result.</p>
                 </div>
             </div>
         </div>
     </div>
 </section>
+
+
 <!-- Services Section -->
 <section id="services" style="background-color: #121212; padding: 60px 0; color: #fff;">
     <div class="container">
@@ -288,10 +309,10 @@
             <div class="col-md-4 mb-4">
                 <div class="service-card h-100 text-center p-4 rounded">
                     <div class="service-icon mb-3">
-                        <i class="fas fa-tools fa-2x text-orange"></i>
+                        <i class="fas fa-mobile fa-2x text-orange"></i>
                     </div>
-                    <h5 class="mb-3">Website Maintenance</h5>
-                    <p>Ongoing support, updates, and bug fixes to keep your site smooth.</p>
+                    <h5 class="mb-3">Mobile App Development</h5>
+                    <p>Get a mobile app with great User experience.</p>
                 </div>
             </div>
 
