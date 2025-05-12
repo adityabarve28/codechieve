@@ -76,12 +76,12 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ route("index") }}">
+                        <a class="nav-link" href="index.php">
                             <i class="fas fa-home d-lg-none me-2"></i> Home
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ route("about") }}">
+                        <a class="nav-link" href="about.php">
                             <i class="fas fa-info-circle d-lg-none me-2"></i> About
                         </a>
                     </li>
